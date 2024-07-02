@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gilbert</h1>
 <h3 align="center">A future Machine Learning Engineer from Ghana</h3>
 
-- 🌱 I’m currently learning **Software engineering with alx-africa and AWS**
+- 🌱 I just became an AWS Certified Cloud Practitioner and I am currently learning **Software engineering**
 
 - 📝 I regularly write articles on [https://gibstechjourney.blogspot.com/](https://gibstechjourney.blogspot.com/)
 
