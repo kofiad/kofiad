@@ -1,6 +1,6 @@
 ## Hi, I'm Gilbert 👋
 
-**Full-stack engineer from Ghana.** I build production web platforms end to end: Spring Boot and Next.js applications, multi-tenant PostgreSQL, and the cloud infrastructure they run on. I came to software from biomedical engineering, so I like domains where the data has to be right.
+**Full-stack engineer from Ghana.** I build production web platforms end to end: Spring Boot, FastAPI and Next.js applications, multi-tenant PostgreSQL, and the cloud infrastructure they run on. I came to software from biomedical engineering, so I like domains where the data has to be right.
 
 ### What I'm building
 
